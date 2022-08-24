@@ -1,0 +1,59 @@
+.deemphasized {
+    color: #444;
+    font-size: 0.9em;
+}
+
+.underline {
+
+    width: 40%;
+    margin: auto;
+    color: red;
+    border: none;
+    height: 3px;
+    background-color: red;
+
+
+
+}
+
+.underline2 {
+
+    width: 60%;
+    margin: auto;
+
+}
+
+.img-referencial {
+    margin: 5%;
+}
+
+.lorem {
+    text-align: justify;
+    text-justify: inter-word;
+
+}
+
+.lorem2 {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.tituloInfo {
+    text-align: center;
+    text-justify: inter-word;
+    color: grey;
+    width: 80%;
+    height: 30%;
+    margin-left: 7%;
+
+}
+
+.coberturas2 {
+    margin-top: 9%;
+}
+
+.info2 {
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+}

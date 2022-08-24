@@ -1,0 +1,27 @@
+/* Fondo con la imagen requerida */
+.fondo{
+    background-image: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-width: 100%;
+    margin-bottom: 10%;
+}
+
+
+.margenBanner{
+    padding: 0% 10% 0% 10%;
+}
+
+.margenFormulario{
+    margin-bottom: -2%;
+    padding: 0% 4% 0% 3%;
+}
+
+.protegeMargen{
+    margin: 10%;
+}
+
+.posicionTextoTitulo{
+    margin-right: 44%;
+}
